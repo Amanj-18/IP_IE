@@ -1,0 +1,9 @@
+#myChart, #myChart1, #myChart2 ,#myChart3{
+    width: 600px !important;
+    height: 600px !important;
+}
+.container{
+    position: relative;
+    left: 25%;
+    top: 25%;
+}

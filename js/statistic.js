@@ -104,14 +104,14 @@ new Chart(ctx3, {
         ],
         datasets: [{
             type: 'bar',
-            label: 'Bar Dataset',
+            label: 'Month',
             data: [50 , 60 , 91, 41],
             borderColor: 'rgb(255, 99, 132)',
             order: 2,
             backgroundColor: 'rgba(115, 9, 32, 0.6)'
         }, {
             type: 'line',
-            label: 'Line Dataset',
+            label: 'Maximum Death rates',
             data: [90, 90, 90, 90],
             order: 1,
             fill: false,
